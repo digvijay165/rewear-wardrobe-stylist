@@ -2,6 +2,10 @@
 
 A mobile-friendly wardrobe styling site for discovering new outfits from clothes and accessories you already own.
 
+## Live site
+
+[Open Rewear](https://digvijay165.github.io/rewear-wardrobe-stylist/)
+
 ## Use
 
 Open the deployed site, create a local profile or continue as a guest, add photos of wardrobe pieces, then choose an occasion and style to get outfit ideas. Saved looks and wardrobe items stay in that browser.
